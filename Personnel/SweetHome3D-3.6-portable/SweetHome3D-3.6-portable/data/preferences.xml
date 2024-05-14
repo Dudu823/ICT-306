@@ -38,7 +38,7 @@
 <entry key="furnitureCategory#2">Bureau</entry>
 <entry key="furnitureCategory#1">Bureau</entry>
 <entry key="recentHomes#2">C:\Users\aledurrenma\Documents\GitHub\ICT-306\Matériel\Bâtiment X.sh3d</entry>
-<entry key="recentHomes#1">C:\Users\aledurrenma\Desktop\Salle_Imprimante_1er_etage - Copie.sh3d</entry>
+<entry key="recentHomes#1">C:\Users\aledurrenma\Desktop\Bâtiment X.sh3d</entry>
 <entry key="furnitureModel#6">jar:file:Furniture-3-4630702007582539951.pref!/savon.obj</entry>
 <entry key="furnitureModel#5">jar:file:Furniture-3-332696757813537907.pref!/poubelleInox.obj</entry>
 <entry key="furnitureModel#4">jar:file:Furniture-3-6656505459831642368.pref!/paperTowelHolder.obj</entry>
@@ -74,8 +74,8 @@
 <entry key="furnitureProportional#2">true</entry>
 <entry key="furnitureProportional#1">true</entry>
 <entry key="newHomeWallHeight">250.0</entry>
-<entry key="autoSaveDelayForRecovery">600000</entry>
 <entry key="furnitureDepth#6">5.77577</entry>
+<entry key="autoSaveDelayForRecovery">600000</entry>
 <entry key="furnitureDepth#5">34.244698</entry>
 <entry key="furnitureDepth#4">16.0</entry>
 <entry key="furnitureDepth#3">56.35501</entry>
@@ -85,10 +85,10 @@
 <entry key="roomFloorColoredOrTextured">false</entry>
 <entry key="magnetismEnabled">true</entry>
 <entry key="furnitureBackFaceShown#6">false</entry>
-<entry key="autoCompletionStrings#2">D04,D02,Salle de bain,Chambre,Cuisine,Salon,Salle à manger,Entrée</entry>
 <entry key="furnitureBackFaceShown#5">false</entry>
-<entry key="autoCompletionStrings#1">Sous-sol,Rez-de-chaussée,1er étage,2ème étage,3ème étage</entry>
+<entry key="autoCompletionStrings#2">D04,D02,Salle de bain,Chambre,Cuisine,Salon,Salle à manger,Entrée</entry>
 <entry key="furnitureBackFaceShown#4">false</entry>
+<entry key="autoCompletionStrings#1">Sous-sol,Rez-de-chaussée,1er étage,2ème étage,3ème étage</entry>
 <entry key="furnitureBackFaceShown#3">false</entry>
 <entry key="furnitureBackFaceShown#2">false</entry>
 <entry key="furnitureBackFaceShown#1">false</entry>
@@ -96,10 +96,10 @@
 <entry key="furnitureModelRotation#5">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureModelRotation#4">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureModelRotation#3">1 0 0 0 1 0 0 0 1</entry>
-<entry key="furnitureModelRotation#2">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureIcon#6">file:Furniture-3-875760018429895659.pref</entry>
-<entry key="furnitureModelRotation#1">1 0 0 0 1 0 0 0 1</entry>
+<entry key="furnitureModelRotation#2">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureIcon#5">file:Furniture-3-1161718617960241405.pref</entry>
+<entry key="furnitureModelRotation#1">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureIcon#4">file:Furniture-3-4046943219161132938.pref</entry>
 <entry key="furnitureIcon#3">file:Furniture-3-6386227432521893188.pref</entry>
 <entry key="furnitureIcon#2">file:Furniture-3-283940719088204222.pref</entry>
